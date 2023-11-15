@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Avance_Proyecto</string>
+    <string name="frame_name">SOLICITUDES</string>
+
+    <string name="pendiente">Pendiente</string>
+    <string name="cotizado">Cotizado</string>
+    <string name="observado">Observado</string>
+    <string name="anulado">Anulado</string>
+
+    <string name="ap_paterno">Apellido Paterno:</string>
+    <string name="ap_materno">Apellido Materno:</string>
+    <string name="nombres">Nombres:</string>
+    <string name="codigo">Código:</string>
+    <string name="importe">Importe:</string>
+    <string name="descripcion">Descripción:</string>
+    <string name="fecha_infraccion">Fecha de la infracción::</string>
+    <string name="periodo">Periodo:</string>
+
+    <string name="nombrecompletoX">Carlos Rodrigo Fernandez Baca</string>
+    <string name="puestoX">(Presidente de la junta de propietarios)</string>
+    <string name="predioX">Los Rubies</string>
+    <string name="ubicacionX">Lima (Los Olivos)</string>
+    <string name="tiempoX">Hace 1 semana</string>
+
+</resources>

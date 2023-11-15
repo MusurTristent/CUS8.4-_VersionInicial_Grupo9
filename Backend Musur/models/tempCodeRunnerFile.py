@@ -1,0 +1,1 @@
+db.Numeric(6,2)
